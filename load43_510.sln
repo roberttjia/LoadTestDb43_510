@@ -6,8 +6,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoadTest.Data", "LoadTest.D
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoadTest.Console", "LoadTest.Console\LoadTest.Console.csproj", "{B2C3D4E5-F6G7-8901-BCDE-F23456789012}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoadTest.Tests", "LoadTest.Tests\LoadTest.Tests.csproj", "{C3D4E5F6-G7H8-9012-CDEF-345678901234}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
